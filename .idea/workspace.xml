@@ -150,13 +150,13 @@
   <component name="RunManager" selected="Application.Dinank">
     <configuration name="Dinank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dinank" />
-      <module name="Pracetice_Exercise3" />
+      <module name="Practice_Exercise3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ArrayPlacesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Pracetice_Exercise3" />
+      <module name="Practice_Exercise3" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ArrayPlacesTest" />
       <method v="2">
@@ -164,7 +164,7 @@
       </method>
     </configuration>
     <configuration name="MatrixAdditionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Pracetice_Exercise3" />
+      <module name="Practice_Exercise3" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MatrixAdditionTest" />
       <method v="2">
@@ -172,7 +172,7 @@
       </method>
     </configuration>
     <configuration name="SevenDigitsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Pracetice_Exercise3" />
+      <module name="Practice_Exercise3" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="SevenDigitsTest" />
       <method v="2">
@@ -180,7 +180,7 @@
       </method>
     </configuration>
     <configuration name="StudentGradeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Pracetice_Exercise3" />
+      <module name="Practice_Exercise3" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="StudentGradeTest" />
       <method v="2">
